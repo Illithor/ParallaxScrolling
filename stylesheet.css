@@ -4,57 +4,81 @@ body {
 }
 
 .text h1 {
-	width: 500px;
+	width: 1000px;
 	font-family: 'Bungee', cursive;
 }
 
 .text h1:hover {
-	text-shadow: 1px 1px 30px red;
+	text-shadow: 1px 1px 80px silver;
+}
+
+.middle {
+	margin-top: 100px;
+	text-align: center;
 }
 
 .text {
 	width: 1000px;
 	margin: auto;
+	position: absolute;
+	top: 550px;
+	left: 200px;
+	color: white;
 }
 
 .bg {
-	width: 900px;
-	height: 300px;
+	width: 1347px;
+	height: 1000px;
 	background: url(img/background.png) no-repeat;
 	border: 1px black solid;
-	margin: 100px auto;
 }
 
 .fga {
-	width: 900px;
-	height: 300px;
-	background: url(img/2.png) no-repeat;
-}
-
-.fgb {
-	width: 900px;
-	height: 300px;
+	width: 1347px;
+	height: 1000px;
 	background: url(img/1.png) no-repeat;
 }
 
+.fgb {
+	width: 1347px;
+	height: 1000px;
+	background: url(img/2.png) no-repeat;
+}
+
 .fgc {
-	width: 900px;
-	height: 300px;
+	width: 1347px;
+	height: 1000px;
 	background: url(img/3.png) no-repeat;
 }
 
 .fgd {
-	width: 900px;
-	height: 300px;
+	width: 1347px;
+	height: 1000px;
 	background: url(img/4.png) no-repeat;
+}
+
+.fge {
+	width: 1347px;
+	height: 1000px;
+	background: url(img/5.png) no-repeat;
+}
+
+.fgf {
+	width: 1347px;
+	height: 1000px;
+	background: url(img/6.png) no-repeat;
+	position: relative;
+	top: 100px;
+	margin-left: -2px;
 }
 
 p {
 	font-size: 20px;
 	font-family: sans-serif;
 }
-
+/*
 footer p {
 	margin-top: 100px;
 	text-align: center;
-}
+	z-index: -1;
+}*/
