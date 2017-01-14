@@ -1,0 +1,60 @@
+body {
+	background: #d5e0f2;
+	margin: auto;
+}
+
+.text h1 {
+	width: 500px;
+	font-family: 'Bungee', cursive;
+}
+
+.text h1:hover {
+	text-shadow: 1px 1px 30px red;
+}
+
+.text {
+	width: 1000px;
+	margin: auto;
+}
+
+.bg {
+	width: 900px;
+	height: 300px;
+	background: url(img/background.png) no-repeat;
+	border: 1px black solid;
+	margin: 100px auto;
+}
+
+.fga {
+	width: 900px;
+	height: 300px;
+	background: url(img/2.png) no-repeat;
+}
+
+.fgb {
+	width: 900px;
+	height: 300px;
+	background: url(img/1.png) no-repeat;
+}
+
+.fgc {
+	width: 900px;
+	height: 300px;
+	background: url(img/3.png) no-repeat;
+}
+
+.fgd {
+	width: 900px;
+	height: 300px;
+	background: url(img/4.png) no-repeat;
+}
+
+p {
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+footer p {
+	margin-top: 100px;
+	text-align: center;
+}
