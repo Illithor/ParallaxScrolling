@@ -1,5 +1,5 @@
 # ParallaxScrolling
-Carol Shi & Kiera Li
+Jiamin Shi & Kiera Li
 
 Citation:
 
